@@ -94,3 +94,6 @@ The app will be accessible at [http://localhost:3000](http://localhost:3000).
 ### App is deployed on Vercel
 
 you can test it on this link
+
+https://jira-clone-cyan-five.vercel.app/
+
